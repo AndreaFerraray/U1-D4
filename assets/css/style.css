@@ -1,0 +1,30 @@
+/* IMPOSTAZIONI GENERALI */
+
+.container {
+  width: 500px;
+  margin: auto;
+}
+header .first-container {
+  background-image: linear-gradient(65deg, #006e88, #019cc9);
+  min-height: 200px;
+  margin-top: 30px;
+  display: inline-block;
+  margin-inline: 120px;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
